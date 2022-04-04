@@ -1,0 +1,14 @@
+How to Run:
+
+Virtualenv env
+env\Scripts\activate.bat
+
+python app.run
+
+
+For Development you can go through this
+https://flask-project-2-development.herokuapp.com/
+
+For Production You can go throught this link
+
+https://pacific-meadow-43185.herokuapp.com/
